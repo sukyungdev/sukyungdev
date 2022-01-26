@@ -1,3 +1,7 @@
+<a href="https://sukyungdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FC60A8?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
+![sukyungdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyungdev&show_icons=true&theme=vue)
+
 ### Hi there 👋
 
 <!--
