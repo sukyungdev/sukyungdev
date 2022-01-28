@@ -1,8 +1,11 @@
 <a href="https://sukyungdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FC60A8?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="matilto:sukyung.developer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sukyung.developer@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+### Hi there 👋
 
 ![sukyungdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyungdev&show_icons=true&theme=vue)
 
-### Hi there 👋
+
 
 <!--
 **sukyungdev/sukyungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
