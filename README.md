@@ -3,13 +3,8 @@
 
 ### Hi there 👋 I'm SukyungKim
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukyungdev&show_icons=true&theme=vue" width=50.0%/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukyungdev&layout=compact" width=41.7%/>
-</a>
+![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **sukyungdev/sukyungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
