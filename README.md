@@ -6,9 +6,9 @@
 ![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/languages.svg)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://activity-graph.herokuapp.com/graph?username=sukyungdev&theme=material-palenight" width="720px"/>
-</a>
+</a> -->
 
 <!--
 **sukyungdev/sukyungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
