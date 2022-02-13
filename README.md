@@ -1,4 +1,5 @@
 <a href="https://sukyungdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FC60A8?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://velog.io/@sukyungdev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:sukyung.developer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sukyung.developer@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Hi there 👋 I'm SukyungKim
