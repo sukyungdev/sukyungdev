@@ -2,6 +2,7 @@
 <a href="https://velog.io/@sukyungdev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:sukyung.developer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sukyung.developer@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://codemate.kr/@sukyungdev" target="_blank"><img src="https://img.shields.io/badge/codemate-ffffff?style=flat-square&logo=&logoColor=383c4b"/></a>
+<a href="https://www.frontendmentor.io/profile/sukyungdev" target="_blank"><img src="https://img.shields.io/badge/FrontendMentor-3F54A3?style=flat-square&logo=Frontend Mentor&logoColor=FFFFFF"/></a>
 
 ### Hi there 👋 I'm SukyungKim
 
