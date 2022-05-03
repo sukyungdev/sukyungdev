@@ -11,15 +11,15 @@
 
 📫 How to reach me sukyung.developer@gmail.com
 
-<p> <img src="https://komarev.com/ghpvc/?username=sukyungdev&label=Profile%20views&color=0e75b6&style=flat" alt="sukyungdev" /> </p>
+<!--
+<p> <img src="https://komarev.com/ghpvc/?username=sukyungdev&label=Profile%20views&color=0e75b6&style=flat" alt="sukyungdev" /> </p> -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukyungdev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
 
 <h3>Languages and Tools:</h3>
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
 <br />
-
 <h3>You also find me</h3>
 <!-- <a href="https://sukyungdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FC60A8?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
 <a href="https://velog.io/@sukyungdev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
@@ -32,4 +32,3 @@
 ![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/languages.svg)
 
 </div>
-<br />
