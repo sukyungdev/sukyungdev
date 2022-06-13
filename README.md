@@ -29,7 +29,9 @@
 
 <br />
 
-<!-- ![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/sukyungdev/github-stats-transparent/output/generated/languages.svg) -->
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyungdev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
